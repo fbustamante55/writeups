@@ -1,0 +1,27 @@
+# Artefactos descargados del curso / demos / challenges
+*.zip
+Python-Demo-*/
+JavaScript-Demo-*/
+
+# Binarios y material de challenges (el repo es solo-markdown)
+CHALLENGES/
+*.exe
+*.dll
+*.bin
+*.elf
+*.pcap
+*.pcapng
+
+# Basura de zips hechos en macOS
+__MACOSX/
+._*
+
+# Imágenes sueltas / screenshots
+*.png
+*.jpg
+*.jpeg
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
